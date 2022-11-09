@@ -1,0 +1,28 @@
+/* span.special,li.special{
+    color: orange;
+    font-weight :bold;
+} */
+
+/* li em{
+    color: purple;
+} */
+
+/* h4+p{
+    font-size: 200%;
+} */
+
+/* pseudo class selector 
+
+a:hover{
+    color: red;
+    text-decoration: none;
+}*/
+
+
+body h1+p .special{
+    color: yellow;
+    background-color: black;
+    padding: 5px;
+}
+
+

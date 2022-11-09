@@ -1,0 +1,10 @@
+color
+background color
+border-color
+
+values for color
+-name
+-rgb(0(opaque)-255(tranparent))
+-hexadecimal colors #RRGGBB
+
+
